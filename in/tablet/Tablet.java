@@ -1,6 +1,6 @@
 package in.tablet;
 
-import in.shared.Shared;
+import com.shared.Shared;
 
 public class Tablet{
 	public static void main(String arg[]){
